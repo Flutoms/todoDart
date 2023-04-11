@@ -2,6 +2,7 @@ import 'package:todos_data_source/src/todo.dart';
 
 /// An interface for a todos data source.
 /// A todos data source supports basic C.R.U.D operations.
+///
 /// * C - Create
 /// * R - Read
 /// * U - Update
